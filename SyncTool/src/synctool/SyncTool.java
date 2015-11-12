@@ -5,17 +5,20 @@
  */
 package synctool;
 
+import java.nio.file.Path;
+
 /**
  *
  * @author Raicandy
  */
 public class SyncTool {
 
-    /**
-     * @param args the command line arguments
-     */
+        Path Sync1;
+        Path Sync2;
+        
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+        
     }
     
 }
